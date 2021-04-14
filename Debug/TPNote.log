@@ -1,0 +1,8 @@
+﻿  Fonction.cpp
+D:\EPSI\CHEVALIER_Nicolas\cour_1\TPnote\TPNote\Fonction.cpp(19,12): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+D:\EPSI\CHEVALIER_Nicolas\cour_1\TPnote\TPNote\Fonction.cpp(56,20): warning C4018: '<' : incompatibilité signed/unsigned
+D:\EPSI\CHEVALIER_Nicolas\cour_1\TPnote\TPNote\Fonction.cpp(69,19): warning C4018: '<' : incompatibilité signed/unsigned
+  Main.cpp
+D:\EPSI\CHEVALIER_Nicolas\cour_1\TPnote\TPNote\Main.cpp(60,9): warning C4101: 'a' : variable locale non référencée
+  Génération de code en cours...
+  TPNote.vcxproj -> D:\EPSI\CHEVALIER_Nicolas\cour_1\TPnote\TPNote\Debug\TPNote.exe
